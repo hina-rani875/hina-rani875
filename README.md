@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Hina Rani</h1>
+<h1 align="center">Hi 👋,I'm Hina Rani</h1>
 <h3 align="center">A passionate frontend developer from 🇵🇰</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hina-rani875" alt="hina-rani875" /></a> </p>
